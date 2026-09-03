@@ -1,0 +1,44 @@
+# C++ Build files
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled binaries
+astitva-ai
+astitva-ai.exe
+backend/build/
+
+# Secrets
+.env
+*.pem
+*.key
+*.crt
+config.json
+
+# Data files
+*.db
+*.sqlite
+
+# Logs
+*.log
